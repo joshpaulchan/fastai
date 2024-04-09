@@ -10,3 +10,5 @@ Steps
 6. when back, make start
 
 https://course.fast.ai/update_gcp.html
+http://localhost:8080/notebooks/tutorials/fastai/course-v3/nbs/dl1/lesson1-hw-worknotwork.ipynb
+http://localhost:8080/tree
